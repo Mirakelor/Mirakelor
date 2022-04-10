@@ -10,3 +10,4 @@
 - 📫 It's OK to reach me through the email on [this page](https://hi.amons.cf);
 - ⚡ Fun fact: I wanna be a game developer 😃
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirakelor&layout=compact)](https://github.com/Christmas/github-readme-stats)
