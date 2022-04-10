@@ -1,18 +1,12 @@
-### Hi there 👋
+### Hi there, this is Mirakelor 👋
 
-<!--
-**Mirakelor/Mirakelor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img alt="profile trophy" src="https://github-profile-trophy.vercel.app/?username=Mirakelor&column=4&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true" width="500">
 
-Here are some ideas to get you started:
+<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Mirakelor&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true" width="500">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Vue, React and Flutter development;
+- 🌈 I’m looking for collaborators;
+- 💬 Ask me about anything tech related, I am happy to help;
+- 📫 It's OK to reach me through the email on [this page](https://hi.amons.cf);
+- ⚡ Fun fact: I wanna be a game developer 😃
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mirakelor&show_icons=true&theme=radical)
