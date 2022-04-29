@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Vue, React and Flutter development;
 - 🌈 I’m looking for collaborators;
 - 💬 Ask me about anything tech related, I am happy to help;
-- 📫 It's OK to reach me through the email on [this page](https://hi.amons.cf);
+# - 📫 It's OK to reach me through the email on [this page](https://hi.amons.cf);
 - ⚡ Fun fact: I wanna be a game developer 😃
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirakelor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
